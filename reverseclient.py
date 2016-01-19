@@ -1,7 +1,7 @@
-#################################
-# Furkan Çalışkan, 2016
-# Reverse TCP Shell Client v 0.1
-#################################
+########
+# Reverse TCP Client
+# Furkan Çalışkani 2016
+########
 
 import socket
 import subprocess
