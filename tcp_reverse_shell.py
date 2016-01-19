@@ -1,6 +1,9 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 #################################
-# Furkan Çalışkan, 2016
 # Reverse TCP Shell Server v 0.1
+# Furkan Çalışkan, 2016
 #################################
 
 import socket

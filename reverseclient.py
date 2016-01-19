@@ -1,7 +1,10 @@
-########
-# Reverse TCP Client
-# Furkan Çalışkani 2016
-########
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+#################################
+# Reverse TCP Shell Client v 0.1
+# Furkan Çalışkan, 2016
+#################################
 
 import socket
 import subprocess
